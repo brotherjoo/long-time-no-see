@@ -3,7 +3,7 @@
 
 이름  www.google.com  URL
 주소  172.217.24.228     IP
-문     https://www.naver.com:443 PORT
+문    https://www.naver.com:443 PORT
 
 
 프론트엔드
