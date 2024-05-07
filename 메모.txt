@@ -1,0 +1,19 @@
+인터넷 == 인프라
+웹 ==  인프라 위에 올라가는 기술
+
+이름  www.google.com  URL
+주소  172.217.24.228     IP
+문     https://www.naver.com:443 PORT
+
+
+프론트엔드
+HTML - 골격
+CSS - 피부
+JavaScript - 근육
+
+백엔드
+Python - 두뇌
+
+메모장 - 이걸로 코딩하면 미친놈
+Atom - 퇴물
+VSC - 걍 이거 쓰래요
